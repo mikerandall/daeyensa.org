@@ -22,7 +22,7 @@
                 <img
                     slot="img"
                     class="d-block img-fluid w-100"
-                        src="./assets/banya_at_unity-sm.jpg" srcset="./assets/banya_at_unity-sm.jpg 800w, ./assets/Banya_at_unity.jpg 810w"
+                        src="./assets/banya_at_unity-sm.jpg" srcset="./assets/banya_at_unity-sm.jpg 830w, ./assets/Banya_at_unity.jpg 840w"
                     alt="Banya Sunim gives Dharma talk at Unity in the Foothills."
                 />
                 <p>
@@ -35,7 +35,7 @@
                 <img
                     slot="img"
                     class="d-block img-fluid w-100"
-                        src="./assets/DSC_0348-sm.jpg" srcset="./assets/DSC_0348-sm.jpg 800w, ./assets/DSC_0348.jpg 810w"
+                        src="./assets/DSC_0348-sm.jpg" srcset="./assets/DSC_0348-sm.jpg 830w, ./assets/DSC_0348.jpg 840w"
                     alt="Twin Pagodas on the temple grounds."
                 />
                 <p>For over 30 years Dae Yen Sa has been a place of refuge for those seeking liberation from the bonds of greed, hatred and ignorance. Rooted in the ground of Korean Seon (Zen) Buddhism, and under the direction of Abbot, Ven. Dae San Dae Sa, we offer instruction and practice in seon meditation, chanting, and dharma study, as well as Yoga and Qigong.</p>
@@ -45,7 +45,7 @@
                 <img
                     slot="img"
                     class="d-block img-fluid w-100"
-                        src="./assets/DSC_0404-sm.jpg" srcset="./assets/DSC_0404-sm.jpg 800w, ./assets/DSC_0404.jpg 810w"
+                        src="./assets/DSC_0404-sm.jpg" srcset="./assets/DSC_0404-sm.jpg 830w, ./assets/DSC_0404.jpg 840w"
                     alt="Monks in ceremony at Dae Yen Sa Temple."
                 />
                 <p>We hold traditional ceremonies, and conduct retreat days for individuals and groups throughout the year.<br>

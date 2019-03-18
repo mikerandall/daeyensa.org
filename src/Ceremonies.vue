@@ -20,7 +20,7 @@
                 <p><b>Buddha Birthday & Lotus Lantern Celebration – 부처님 오신날:</b><br>
                 Yearly celebration includes lotus lantern offerings, traditional liturgy, bathing baby Buddha ceremony, and community reception with vegetarian meal (May).</p>
 
-                <p><b>Baek Jung Cheondo Jae Annual Memorial Service:</b></br>
+                <p><b>Baek Jung Cheondo Jae Annual Memorial Service:</b><br>
                 Collective yearly service for Deceased Ancestors (August).<br>
                 For more information please <a href="mailto:daeyensatemple@gmail.com">contact us</a>.</p>
 

@@ -8,14 +8,14 @@
             </b-col>
             <b-col sm="12" md="5">
                 <p>댸연불보정사 <br>
-                케네티컷 ~ 성역 관음성지 <br>
-                <address>
-                    Dae Yen Sa International Temple <br>
-                    and Meditation Center <br>
-                    19 Kinsey Road<br>
-                    New Hartford, CT 06057<br>
-                    <a class="phone" href="tel:860-489-3254">860-489-3254</a>
-                </address>
+                    케네티컷 ~ 성역 관음성지 <br>
+                    <address>
+                        Dae Yen Sa International Temple <br>
+                        and Meditation Center <br>
+                        19 Kinsey Road<br>
+                        New Hartford, CT 06057<br>
+                        <a class="phone" href="tel:860-489-3254">860-489-3254</a>
+                    </address>
                 </p>
                 <div class="map">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2972.7000144763215!2d-73.05270148467247!3d41.83475737610473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7a18675dc1f8f%3A0x60dd3b8451837d31!2sdae+yen+sa!5e0!3m2!1sen!2sus!4v1551286178456" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
